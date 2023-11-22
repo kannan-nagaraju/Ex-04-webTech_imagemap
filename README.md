@@ -11,7 +11,7 @@ create a map name MAGE_MAP_AROUND_ME, By using the shape attribute to select a p
 By using the coords attribute we can select a particular area we needed ,Then using the href the website is called to show the details.
 
 # Code:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,6 +43,10 @@ By using the coords attribute we can select a particular area we needed ,Then us
 <hr>
 </body>
 </html>
+```
 
 # Output:
 ![Alt text](image.png)
+
+# Result:
+The output was verified sucessfully
